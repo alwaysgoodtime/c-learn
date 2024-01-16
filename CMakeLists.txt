@@ -3,4 +3,4 @@ project(c_learn C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(c_learn  main.c test.c)
+add_executable(c_learn  main.c swap.c)

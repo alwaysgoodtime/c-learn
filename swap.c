@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "test.h"
+#include "swap.h"
 
 void swap(int *a, int *b) {
     int tmp = *a;

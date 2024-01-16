@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "test.h"
+#include "swap.h"
 
 int main() {
     int a = 0;
